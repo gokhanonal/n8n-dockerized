@@ -1,5 +1,5 @@
 #custom files and folders
-.docker-compose.yml_server
+docker-compose.yml_server
 init-data.sh
 volume/postgres_data/
 volume/n8n_data/
